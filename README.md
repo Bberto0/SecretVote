@@ -36,4 +36,4 @@ The project involves developing a potential digital voting software that guarant
 
 1. Clona la repository sul tuo computer.
 2. Apri la cartella del progetto all'interno di **IntelliJ IDEA**.
-3. Esegui la classe principale (`[Inserisci il nome del file Main, es: Main.java]`).
+3. Esegui la classe principale Main.java.
